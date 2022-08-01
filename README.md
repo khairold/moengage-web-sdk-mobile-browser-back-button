@@ -9,7 +9,7 @@ Should you go to \_app.js and comment out the Script component, back button on a
 
 Clicking the Back button on a mobile browser will go to the previous page
 
-# Provide environment information
+# Environment information
 
 ```
     Operating System:
@@ -30,7 +30,7 @@ Clicking the Back button on a mobile browser will go to the previous page
 
 # To Reproduce
 
-- Clode the reproduction repository
+- Clone the reproduction repository
 - run `npm install`
 - run `npm run dev` to start the development server
 - Use a mobile device OR Chrome mobile simulator OR Firefox mobile simulator to browse
