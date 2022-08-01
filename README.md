@@ -7,7 +7,7 @@ Should you go to \_app.js and comment out the Script component, back button on a
 
 # Expected Behavior
 
-Clicking the Back button on a mobile browser will go to the previous page
+Clicking the Back button on a mobile browser will go to back to teh previous url and load the previous content.
 
 # Environment information
 
