@@ -1,9 +1,10 @@
 # Describe the bug
 
-Clicking or tapping the back button on a mobile device browser would only change the url, but not the content.
-This will happen when initiating Moengage Web SDK.
+We're using NextJS for the checkout portion of our website.
 
-Should you go to \_app.js and comment out the Script component, back button on a mobile device browser would behave as expected.
+When Moengage Web SDK is initiated, clicking or tapping the back button on a mobile device browser would only change the url, but not the content.
+
+Should you go to pages/\_app.js and comment out the Script component, back button on a mobile device browser would behave as expected.
 
 # Expected Behavior
 
