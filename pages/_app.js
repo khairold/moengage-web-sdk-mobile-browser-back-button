@@ -3,7 +3,7 @@ import Script from 'next/script'
 function MyApp({ Component, pageProps }) {
   return (
     <>
-      {/* The script below is cuasing back button issue on mobile devices */}
+      {/* The script below is causing back button issue on mobile devices */}
       <Script
         id='gtag-base'
         strategy='afterInteractive'
